@@ -6,7 +6,7 @@ const Home: NextPage = () => {
   return (
     <>
       next learning
-      <button onClick={() => router.push("/test/2?id=ttt")}>
+      <button onClick={() => router.push("/test/2?id=ee")}>
         Click here to read more
       </button>
     </>
